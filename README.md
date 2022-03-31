@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/102713314/161123521-b013dc5c-5147-4c5f-ae38-6a25922d37cc.png">
+  <img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_1.png">
 </p>
 
 <p align="center">
