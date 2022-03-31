@@ -4,4 +4,4 @@ The MASATI database is composed of satellite images labeled according to
 the following seven classes: land, coast, sea, ship, multi, coast-
 ship, and detail.
 
-**Remark:**
+Remark: Unzip file database_images.zip
