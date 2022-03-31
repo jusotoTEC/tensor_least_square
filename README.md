@@ -18,7 +18,7 @@
 
 [2] A.-J. Gallego, A. Pertusa, and P. Gil, *Automatic ship classification from optical aerial images with convolutional neural networks,* Remote Sensing, vol. 10, no. 4, p. 511, 2018.
 
-**Two Images from de Paper:**
+**Two Images from the Paper:**
 
 
 
