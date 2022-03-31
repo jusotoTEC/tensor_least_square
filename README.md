@@ -1,4 +1,4 @@
-# MATLAB Codes from Numerical Experiments in Paper *"A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing"*
+# MATLAB Code from Numerical Experiments in Paper *"A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing"*
 
 **Paper Title:** A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing
 
