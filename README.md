@@ -2,15 +2,13 @@
 
 **Paper Title:** A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing
 
-**Conference:** 2022 45th International Conference on Telecommunications and Signal Processing (https://tsp.vutbr.cz/)
-
 **Author:** Pablo Soto-Quiros (https://www.tec.ac.cr/juan-pablo-soto-quiros)
 
-**Institute:** Costa Rica Institute Technology
+**Institute:** Instituto Tecnológico de Costa Rica (https://www.tec.ac.cr/)
 
 **Email:** jusoto@tec.ac.cr
 
-**Description:** MATLAB code for numerical experimets of scientific paper "*A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing*". This paper was submitted to the 2022 45th International Conference on Telecommunications and Signal Processing (https://tsp.vutbr.cz/). This paper presents two real-life applications for denoising data based on a least-squares problem of a linear tensor equation of third-order. The first numerical experiment is related to removing noise in the sound produced by the blue-throated toucanet, which is a near-passerine bird living in the mountain forests of Costa Rica, Panama, and Colombia. This numerical simulation utilizes a sound database taken from the Xeno-canto website [1]. In the second numerical experiment, we present a method for image deconvolution to remove blur or enhance contrast and resolution of a noisy image. This second simulation uses the MASATI database [1].
+**Description:** MATLAB code for numerical experimets of scientific paper "*A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing*". This paper was submitted to the **2022 45th International Conference on Telecommunications and Signal Processing** (https://tsp.vutbr.cz/). This paper presents two real-life applications for denoising data based on a least-squares problem of a linear tensor equation of third-order. The first numerical experiment is related to removing noise in the sound produced by the blue-throated toucanet, which is a near-passerine bird living in the mountain forests of Costa Rica, Panama, and Colombia. This numerical simulation utilizes a sound database taken from the Xeno-canto website [1]. In the second numerical experiment, we present a method for image deconvolution to remove blur or enhance contrast and resolution of a noisy image. This second simulation uses the MASATI database [1].
 
 **Two Images from the Paper:**
 
