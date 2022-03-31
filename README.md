@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/102713314/161123521-b013dc5c-5147-4c5f-ae38-6a25922d37cc.png" alt="Material Bread logo">
+  <img width="600" src="https://user-images.githubusercontent.com/102713314/161123521-b013dc5c-5147-4c5f-ae38-6a25922d37cc.png">
 </p>
 
 <p align="center">
@@ -31,6 +31,6 @@
 </p>
   
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/102713314/161123736-28f6e359-7993-44e6-aad9-14798f768ade.png" alt="Material Bread logo">
+  <img width="600" src="https://user-images.githubusercontent.com/102713314/161123736-28f6e359-7993-44e6-aad9-14798f768ade.png">
 </p>
 
