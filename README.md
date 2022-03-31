@@ -14,6 +14,6 @@
 
 **References:**
 
-[1] Xeno-canto.org. Bird vocalizations of the Blue-throated Toucanet. 2022, 23 May. Available: https://xeno-canto.org/species/ Aulacorhynchus-caeruleogularis
+[1] Xeno-canto.org. Bird vocalizations of the Blue-throated Toucanet. 2022, 23 May. Available: https://xeno-canto.org/species/Aulacorhynchus-caeruleogularis
 
 [2] A.-J. Gallego, A. Pertusa, and P. Gil, *Automatic ship classification from optical aerial images with convolutional neural networks,* Remote Sensing, vol. 10, no. 4, p. 511, 2018.
