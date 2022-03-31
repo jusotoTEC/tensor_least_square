@@ -31,6 +31,6 @@
 </p>
   
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/102713314/161123736-28f6e359-7993-44e6-aad9-14798f768ade.png">
+  <img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_2.png">
 </p>
 
