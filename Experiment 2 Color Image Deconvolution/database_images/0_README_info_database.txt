@@ -3,3 +3,5 @@ The database is composed of land optical aerial images, taken from the MASATI da
 The MASATI database is composed of satellite images labeled according to
 the following seven classes: land, coast, sea, ship, multi, coast-
 ship, and detail.
+
+Remark: Unzip file database_images.zip in this folder
