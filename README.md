@@ -15,7 +15,7 @@ Pablo Soto is an Associate Professor from the *Instituto Tecnológico de Costa R
 
 <p align="center"><img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_1.png"></p>
   
-<p align="center"><img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_2.png"></p>
+<p align="center"><img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_22.png"></p>
 
 ## References 
 
