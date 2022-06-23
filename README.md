@@ -17,7 +17,7 @@ Pablo Soto is an Associate Professor from the *Instituto Tecnológico de Costa R
   
 <p align="center"><img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_2.png"></p>
 
-## References
+## References 
 
 [1] Xeno-canto.org. Bird vocalizations of the Blue-throated Toucanet. 2022, 23 May. Available: https://xeno-canto.org/species/Aulacorhynchus-caeruleogularis
 
