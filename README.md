@@ -10,8 +10,7 @@ Pablo Soto-Quiros is an Associate Professor from the *Instituto Tecnológico de 
 ## Description
 
 * This repository contains the MATLAB code for numerical experiments presented in the paper "*A Least-Squares Problem of a Linear Tensor Equation of Third-Order for Audio and Color Image Processing*". 
-* The paper was presented in the **2022 45th International Conference on Telecommunications and Signal Processing**. 
-* The link of the paper is https://doi.org/10.1109/TSP55681.2022.9851367.
+* The paper was presented in the **2022 45th International Conference on Telecommunications and Signal Processing**. The paper is available at https://doi.org/10.1109/TSP55681.2022.9851367.
 * This paper presents two real-life applications for denoising data based on a least-squares problem of a linear tensor equation of third-order. The first numerical experiment is related to removing noise in the sound produced by the blue-throated toucanet, which is a near-passerine bird living in the mountain forests of Costa Rica, Panama, and Colombia. This numerical simulation utilizes a sound database taken from the Xeno-canto website [1]. In the second numerical experiment, we present a method for image deconvolution to remove blur or enhance contrast and resolution of a noisy image. This second simulation uses the MASATI database [1].
 
 <p align="center"><img width="600" src="https://github.com/jusotoTEC/tensor_least_square/blob/main/img/image_1.png"></p>
